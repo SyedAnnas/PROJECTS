@@ -1,16 +1,40 @@
 # PROJECTS
+**1. Road Accident Dashboard (MS Excel)**
+_Description:_
+This Road Accident Dashboard was created using MS Excel to analyze and visualize road accident data. The data source for this dashboard is Kaggle. The report provides a detailed overview of accident statistics, trends, and key factors influencing road casualties.
 
-2. Sales Analysis Dashboard (Power BI)
+Visualizations Trend Analysis:
+
+Monthly comparison of casualties between 2021 and 2022.
+
+Casualties by Road Type:
+Single Carriageway & Dual Carriageway
+Roundabouts, One-Way Streets, and Slip Roads are also analyzed.
+
+Casualties by Location:
+Urban & Rural
+
+Casualties by Light Condition:
+Daylight: 61.4K
+Dark: 159.4K
+
+Casualties by Road Surface:
+Dry, Wet Surface, and Snow/Ice conditions.
+
+Filter Panel:
+Dynamic filters for Accident Date and Location (Rural/Urban) provide flexibility in data exploration.
+Purpose:
+This dashboard highlights critical patterns and trends in road accidents to assist policymakers, researchers, and traffic authorities in identifying risk factors and improving road safety measures.
+
+Technology Used:
+Tool: MS Excel
+Data Source: Kaggle
+Tasks Performed: Data cleaning, transformation, and visualization.
+
+
+**2. Sales Analysis Dashboard (Power BI)**
 Description:
 The provided image showcases a Sales Analysis and Trends Dashboard created in Power BI for an e-commerce platform. This dynamic and interactive report is designed to analyze sales performance and provide actionable insights into key business metrics.
-
-Key Features:
-Overview of Key Metrics:
-
-Total Sales: $8.91M
-Total Customers: 398K
-Countries Represented: 37
-Visualizations Included:
 
 Trend Analysis:
 A line chart illustrating sales trends over time (by year, month, and day).
@@ -30,4 +54,4 @@ This dashboard serves as a tool to monitor and analyze e-commerce sales trends, 
 
 Technology Used:
 Platform: Power BI
-Data Sources: E-commerce sales data
+Data Sources: Kaggle
